@@ -13,7 +13,5 @@
 - Python 3.9.0
 
 ## Objective
-- Summarize the life cycle of airflow sensor
-- Understanding how the sensor config (following) affect the cycle of DAG
-   - 
--
+- Non-exhausted summarization of airflow's concepts
+- Understanding how airflow works by hands on
